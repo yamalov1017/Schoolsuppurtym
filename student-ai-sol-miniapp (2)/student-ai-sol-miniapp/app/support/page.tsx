@@ -1,1 +1,0 @@
-export default function Support(){return <main style={{maxWidth:720,margin:"0 auto",padding:24,fontFamily:"system-ui",color:"#f7f8fb"}}><h1>Поддержка</h1><p>По проблемам с приложением или оплатой напиши боту команду /paysupport.</p></main>}

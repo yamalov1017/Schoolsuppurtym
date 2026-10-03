@@ -1,9 +1,0 @@
-1) Распакуй архив.
-2) Открой SETUP.json.
-3) Вставь 5 значений, которые просят комментарии.
-4) Открой Terminal в VS Code.
-5) Выполни: npm install
-6) Затем: npm run dev
-7) Для Telegram Mini App опубликуй проект по HTTPS.
-8) Замени MINI_APP_URL в SETUP.json на HTTPS-адрес.
-9) Установи webhook: https://ТВОЙ_ДОМЕН/api/telegram/webhook
